@@ -14,3 +14,6 @@ Najważniejsze aspekty licencji:
 
 
 
+## Jak uruchomić bota?
+
+- Pobierz plik 
