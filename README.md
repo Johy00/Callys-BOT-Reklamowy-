@@ -1,4 +1,4 @@
-Licencja
+##Licencja
 
 Kod - jeśli nie jest biblioteką zewnętrzna opatrzoną własną licencją - jest wydawany na licencji Apache License v2.0. Szczegółowy kod licencji można przeczytać w pliku [LICENSE](LICENSE).
 
@@ -16,4 +16,13 @@ Najważniejsze aspekty licencji:
 
 ## Jak uruchomić bota?
 
-- Pobierz plik 
+- Pobierz plik 124138 (Kod bota) 
+- Otwórz pobrany plik 
+- Wyciągnij pliki bota 
+- Wgraj bota na hosting np Vstore lub Something 
+- Uruchom bota a następnie w konsoli wpisz .cd /<nazwa folderu gdzie są pliki bota > następnie npm i 
+- Wyłącz bota 
+- Włącz bota 
+- Ponownie wpisz .cd /<nazwa folderu> i następnie .node
+- i działaj ;) 
+
